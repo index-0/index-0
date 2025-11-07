@@ -1,6 +1,6 @@
 # projects
 ## linux
-- ``svengali``: (coming soon) memory analyzer and code injector for Linux.
+- ``svengali``: memory manipulation library for linux. (wip)
 ## embedded
 ### fe310
 - [``fe310env``](https://git.sr.ht/~idx/fe310env): minimal runtime and build setup for producing firmware.  
